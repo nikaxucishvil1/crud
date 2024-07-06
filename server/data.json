@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "product": "Meat",
+    "price": 20,
+    "isExpired": false
+  },
+  {
+    "id": 2,
+    "product": "Milk",
+    "price": 1,
+    "isExpired": false
+  }
+]
